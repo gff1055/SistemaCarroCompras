@@ -1,0 +1,43 @@
+.blue{
+background-color: blue;
+}
+
+.red{
+background-color: red;
+}
+
+.green{
+background-color: green;
+}
+
+
+
+.fundo{
+	background-color: #dfdfdf;
+}
+
+.cabecalhoPrincipal{
+	text-align: center;
+}
+
+.atributoCadastro{
+#margin-bottom: 5px;
+#margin-top: 5px;
+#width: 95%;
+}
+
+.formulario{
+#padding: 10px;
+}
+
+.btnEsquerda{
+float: left;
+}
+
+.labelForm{
+	color: blue;
+}
+
+.flutuaBotoesDireita{
+	float: right;
+}
