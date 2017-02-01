@@ -17,16 +17,12 @@
 	
 	
 		<div class = "divPrincipal">
-				
 				<div>
 						<!-- <button> << Voltar </button> -->
 						www
 				</div>
-			
 		</div>
-			
-				
-			
+		
 		<!-- as bibliotecas Javascript estão por último – evita lentidão no carregamento da página. -->
 		<script src = "js/jquery.js"></script>
 		<script src = "js/bootstrap.js"></script>
