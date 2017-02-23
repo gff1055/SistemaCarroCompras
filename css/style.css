@@ -2,9 +2,9 @@
 background-color: blue;
 }
 
-/*.red{
+.red{
 background-color: red;
-}*/
+}
 
 .green{
 background-color: green;
@@ -18,10 +18,16 @@ background-color: green;
 
 .cabecalhoPrincipal{
 	text-align: center;
-	font-weight: bold;
-	background-image: url("../imgs/cart.jpg");
-	background-repeat: no-repeat;
-	background-position: center bottom;
+}
+
+.atributoCadastro{
+#margin-bottom: 5px;
+#margin-top: 5px;
+#width: 95%;
+}
+
+.formulario{
+#padding: 10px;
 }
 
 .btnEsquerda{
@@ -30,8 +36,4 @@ float: left;
 
 .labelForm{
 	color: blue;
-}
-
-.flutuaBotoesDireita{
-	float: right;
 }

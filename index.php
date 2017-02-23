@@ -16,13 +16,17 @@
 	<body class = "fundo">
 	
 	
-		<div class = "divPrincipal">
-				<div>
+		<div class = "container">
+			<div class = "row">		
+				<div class = "col-sm-12 col-md-12 yellow">
 						<!-- <button> << Voltar </button> -->
-						www
+						<input type = "image" name = "btnVoltar" value = "<< Voltar" class = "btn-primary btnInicial"/>
 				</div>
+			</div>
 		</div>
-		
+			
+				
+			
 		<!-- as bibliotecas Javascript estão por último – evita lentidão no carregamento da página. -->
 		<script src = "js/jquery.js"></script>
 		<script src = "js/bootstrap.js"></script>
